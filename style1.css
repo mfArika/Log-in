@@ -9,7 +9,8 @@
 	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(bg.jpg);
 	background-position: center;
 	background-size: cover;
-	position: absolute;
+	position:absolute;
+ ;
 
 }
 .form-box{
@@ -61,7 +62,7 @@
 }
 .input-group{
 	top: 255px;
-	position: absolute;
+	position: relative;
 	width: 280px;
 	
 }
