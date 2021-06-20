@@ -87,6 +87,7 @@
 	border: 0;
 	outline: none;
 	border-radius: 30px;
+	position: center;
 }
 .check-box{
 	margin: 30px 10px 30px 0;
