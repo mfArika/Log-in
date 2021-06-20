@@ -63,7 +63,7 @@
 	top: 255px;
 	position: absolute;
 	width: 280px;
-	transition: .5s;
+	
 }
 .input-field{
 	width: 100%;
@@ -97,7 +97,7 @@ span{
 	position: absolute;
 }
 #login{
-    left: 620px;
+    left: 40%;
 }
 
 
